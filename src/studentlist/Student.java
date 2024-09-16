@@ -20,5 +20,14 @@ public class Student {
     public void setName(String name) {
         this.name = name;
     }
+
+    public String getAddress() {
+        return Address;
+    }
+
+    public void setAddress(String Address) {
+        this.Address = Address;
+    }
+    
    
 }
